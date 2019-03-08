@@ -1,5 +1,8 @@
 # -unitytolua-scorllview
 基于unitytolua无线scorllview
+
+
+
     --滚动条 + item实例
      local Scroll_View = GameObject.Find("Scroll_View").transform
      local item = GameObject.Find("ListItem").transform
