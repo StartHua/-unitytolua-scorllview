@@ -1,5 +1,5 @@
 # -unitytolua-scorllview
-基于unitytolua无线scorllview
+基于unitytolua无线scorllview:1.支持跳转到某个item  2.支持偏移  3.支持点击item  4.支持刷新
 
 
 
